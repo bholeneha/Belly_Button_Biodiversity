@@ -1,0 +1,32 @@
+body {
+    background-color: #fdf6e0;
+}
+
+.jumbotron {
+    background-image: url("../images/header_image.jpg");
+    background-size: 100% 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color:rgb(243, 243, 243);
+}
+
+.well, #selDataset {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color:rgb(243, 243, 243);
+    background-color: rgb(6, 33, 66);
+    border-color: rgb(111, 111, 111);
+}
+
+.panel {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color:rgb(243, 243, 243);
+    background-color: rgb(6, 33, 66);
+    border-color: rgb(255, 202, 202);
+}
+
+#bar, #gauge, #bubble {
+    color:rgb(243, 243, 243);
+    background-color: rgb(6, 33, 66);
+}
